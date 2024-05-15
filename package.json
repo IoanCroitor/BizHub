@@ -2,7 +2,7 @@
   "name": "bizhub",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://stefanarctic.github.io/BizHub/",
+  "homepage": "https://ioancroitor.github.io/BizHub",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
